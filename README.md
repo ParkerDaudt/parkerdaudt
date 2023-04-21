@@ -3,7 +3,7 @@
 I'm a Senior Penetration Tester at KPMG and Founder of the Information Security Collective. I currently work on assessing web applications, mentoring, and supporting diverstiy/inclusion across the industry.
 
 - 🔭 research: web based vulnerabilities, machine learning, artificial intelligence & advancing D&I in the infosec industry.
-- 🌱 hobbies: software engineering, gaming, anime, lifting & cooking
+- 🌱 hobbies: bowling, gaming, swimming, movies & cooking
 - 🌐 websites: [🖥️ official](https://parkerdaudt.com) | [💻 InfoSec Collective](https://iscollective.org)
 
 I've recently been loving developing intentionally vulnerable applications in modern frameworks to demonstrate cutting edge technology and frameworks are still vulnerable. Reach out to me if you're interested in learning more!
