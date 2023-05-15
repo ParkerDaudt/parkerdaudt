@@ -1,4 +1,4 @@
-### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+### Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 I'm a Senior Penetration Tester at KPMG and Founder of the Information Security Collective. I currently work on assessing web applications, mentoring, and supporting diverstiy/inclusion across the industry.
 
